@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 1.52h | 1 |
+| Week 1 | Tier 1 | 3.6h | 1 |
 
 ## Contents
 
@@ -20,7 +20,7 @@
 
 ### 2026-10-09 – I finished the PCB!! I lowk forgot to journal the process but i will next time. I decided to land on a tree shaped pcb and the theme is based around my friend group which is revolved around a banyan t
 
-**1.52h**
+**3.6h**
 
 I finished the PCB!! I lowk forgot to journal the process but i will next time. I decided to land on a tree shaped pcb and the theme is based around my friend group which is revolved around a banyan tree in my school. So i rearranged the components to fit inside the edge.cuts. For silkscreen i added a outline of a banyan tree, a couple of texts including a list of the members of the banyan. And added some hack club stuff too.
 
@@ -40,3 +40,5 @@ I finished the PCB!! I lowk forgot to journal the process but i will next time. 
 [Timelapse](https://lookout.hackclub.com/api/media/c263c332-8891-4431-ba77-6699ebe0919b/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/7f4b913d-b95d-4573-a374-3f6593d661b0/video.mp4)
+
+[Timelapse](https://lookout.hackclub.com/api/media/13e8c325-0fd1-4c63-975a-54c43651e5e8/video.mp4)
