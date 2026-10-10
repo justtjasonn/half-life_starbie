@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 7.4h | 1 |
+| Week 1 | Tier 1 | 5.32h | 1 |
 
 ## Contents
 
@@ -20,12 +20,23 @@
 
 ### 2026-10-09 – I finished the PCB!! I lowk forgot to journal the process but i will next time. I decided to land on a tree shaped pcb and the theme is based around my friend group which is revolved around a banyan t
 
-**7.4h**
+**5.32h**
 
-I finished the PCB!! I lowk forgot to journal the process but i will next time. I decided to land on a tree shaped pcb and the theme is based around my friend group which is revolved around a banyan tree in my school. So i rearranged the components to fit inside the edge.cuts. For silkscreen i added a outline of a banyan tree, a couple of texts including a list of the members of the banyan. And added some hack club stuff too
+I finished the PCB!! I lowk forgot to journal the process but i will next time. I decided to land on a tree shaped pcb and the theme is based around my friend group which is revolved around a banyan tree in my school. So i rearranged the components to fit inside the edge.cuts. For silkscreen i added a outline of a banyan tree, a couple of texts including a list of the members of the banyan. And added some hack club stuff too.
+
+**Photos:**
+  Schematic:
+![dev1.1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AFZopaMKFyHCDshxv5dukDrK6iIzAB4Y/abd9df1c6a9dd6e385046fc4cb4b089468f88fb21d9d68bcdfc66f221f472f82.png)
+
+  finished PCB:
+![dev1.2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AFZopaMKFyHCDshxv5dukDrK6iIzAB4Y/5d7e4054afe9627d678f148744b5d80e2f9a439900d82ae5f3cdd2820f04cac0.png)
+
+  PCB view front:
+![dev1.3](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AFZopaMKFyHCDshxv5dukDrK6iIzAB4Y/38aff39f2e721954a24954990db3fe05270cf7798e50cc75b8a88c8b0924da92.png)
+
+  PCB view back:
+![dev1.4](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AFZopaMKFyHCDshxv5dukDrK6iIzAB4Y/09dbdd3755760d8aa2e1acb87a99c4b0b3dc9580b1d3e476b65334843799c60b.png)
 
 [Timelapse](https://lookout.hackclub.com/api/media/c263c332-8891-4431-ba77-6699ebe0919b/video.mp4)
-
-[Timelapse](https://lookout.hackclub.com/api/media/13e8c325-0fd1-4c63-975a-54c43651e5e8/video.mp4)
 
 [Timelapse](https://lookout.hackclub.com/api/media/7f4b913d-b95d-4573-a374-3f6593d661b0/video.mp4)
