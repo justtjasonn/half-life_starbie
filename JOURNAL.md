@@ -25,6 +25,7 @@
 I finished the PCB!! I lowk forgot to journal the process but i will next time. I decided to land on a tree shaped pcb and the theme is based around my friend group which is revolved around a banyan tree in my school. So i rearranged the components to fit inside the edge.cuts. For silkscreen i added a outline of a banyan tree, a couple of texts including a list of the members of the banyan. And added some hack club stuff too.
 
 **Photos:**
+
   Schematic:
 ![dev1.1](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AFZopaMKFyHCDshxv5dukDrK6iIzAB4Y/abd9df1c6a9dd6e385046fc4cb4b089468f88fb21d9d68bcdfc66f221f472f82.png)
 
