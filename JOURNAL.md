@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 9.33h | 2 |
+| Week 1 | Tier 1 | 5.97h | 2 |
 
 ## Contents
 
@@ -47,7 +47,7 @@ I finished the PCB!! I lowk forgot to journal the process but i will next time. 
 
 ### 2026-10-10 – **What I did:**
 
-**5.73h**
+**2.37h**
 
 **What I did:**
 I started with the starter firmware which honestly contains everything i essentially need. I just added the sparkle stuff in the guide and also made a new leaf design for the sparkle. I was making the sprite for the main character which is a tree. But I messed up the first time and made it in color, but it's fine i just made a seperate black and white version. I also added all the components up for the BOM but not yet the shipping + taxes. \
