@@ -64,7 +64,7 @@ Colored (not used):
 ![dev2.3](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AFZopaMKFyHCDshxv5dukDrK6iIzAB4Y/28cd13f7c816d34277ff9e85ce6251520b5799963f500c4b33efdd4a4be6f1a0.png)
 
   Monochrome (used):
-  ![dev2.2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AFZopaMKFyHCDshxv5dukDrK6iIzAB4Y/389fed53f3fdb0e4b2dafe7526b4cb447680ab6803a8df0fe167c8dbebff9e04.png)
+![dev2.2](https://halflife.hackclub-assets.com/hackclub-half-life/sessions/AFZopaMKFyHCDshxv5dukDrK6iIzAB4Y/389fed53f3fdb0e4b2dafe7526b4cb447680ab6803a8df0fe167c8dbebff9e04.png)
 
   Leaf sparkle:
 
