@@ -21,7 +21,7 @@
 | [10KΩ resistors](https://e.tb.cn/h.jZyh801vTzVTZPe?tk=vzyZTrRAbD2) | To limit the power from the  esp32 to the OLED display | 10 | $0.04 | $0.40 | [Taobao / Tmall](https://e.tb.cn/h.jZyh801vTzVTZPe?tk=vzyZTrRAbD2) |
 | [Custom PCB](https://jlcpcb.com/) | To connect all the componenets together and for extra design purposes | 5 | $0.80 | $4.00 | [JLCPCB](https://jlcpcb.com/) |
 | **Parts subtotal** | — | — | — | **$14.98** | — |
-| **Tax & shipping** | — | — | — | **$0.00** | — |
-| **Total** | — | — | — | **$14.98** | — |
+| **Tax & shipping** | — | — | — | **$13.00** | — |
+| **Total** | — | — | — | **$27.98** | — |
 
-$15.02 left of the tier's funding.
+$2.02 left of the tier's funding.
