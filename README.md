@@ -33,7 +33,8 @@ These are my Kicad PCB schematic, PCB layout and 3d models of my PCB. Along with
 
 ---
 
-#BOM
+# BOM
+
 | Part | What it's for | Qty | Unit | Total | Vendor |
 | --- | --- | --- | --- | --- | --- |
 | [XIAO ESP32 C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | For processing and running the firmware | 1 | $4.90 | $4.90 | [seed studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
@@ -47,3 +48,70 @@ These are my Kicad PCB schematic, PCB layout and 3d models of my PCB. Along with
 | **Parts subtotal** | — | — | — | **$14.98** | — |
 | **Tax & shipping** | — | — | — | **$13.00** | — |
 | **Total** | — | — | — | **$27.98** | — |
+
+
+---
+
+# Full wiring table(s)
+
+Markdown
+# PCB Wiring Table (`starbie_pcb`)
+
+## Component Pinout Table
+
+| Component Ref | Component Type | Pin Number | Pin Name / Function | Connected Net / Connection | Notes / Description |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **U1**[cite: 2] | XIAO ESP32-C3[cite: 2] | 1 | D0 | *Not Connected (NC)*[cite: 2] | Unused[cite: 2] |
+| | | 2 | D1 | **DHT11 DATA**[cite: 2] | Signal line to DHT11 sensor[cite: 2] |
+| | | 3 | D2 | **GPIO2**[cite: 2] | Input from Push Button SW1[cite: 2] |
+| | | 4 | D3 | **GPIO3**[cite: 2] | Input from Push Button SW2[cite: 2] |
+| | | 5 | D4 | **SCL**[cite: 2] | I2C Clock (Display J1 & Header J2)[cite: 2] |
+| | | 6 | D5 | **SDA**[cite: 2] | I2C Data (Display J1 & Header J2)[cite: 2] |
+| | | 7 | D6 | *Not Connected (NC)*[cite: 2] | Unused[cite: 2] |
+| | | 8 | D7 | *Not Connected (NC)*[cite: 2] | Unused[cite: 2] |
+| | | 9 | D8 | *Not Connected (NC)*[cite: 2] | Unused[cite: 2] |
+| | | 10 | D9/BOOT | *Not Connected (NC)*[cite: 2] | Unused[cite: 2] |
+| | | 11 | D10 | *Not Connected (NC)*[cite: 2] | Unused[cite: 2] |
+| | | 12 | 3V3_OUT | **+3.3V**[cite: 2] | 3.3V Power Rail[cite: 2] |
+| | | 13 | GND | **GND**[cite: 2] | Ground[cite: 2] |
+| | | 14 | VBUS | **+5V**[cite: 2] | 5V Power Rail (USB VBUS)[cite: 2] |
+| | | 15 | D3/MTDI | *Not Connected (NC)*[cite: 2] | Unused[cite: 2] |
+| | | 16 | D5/MTDO | *Not Connected (NC)*[cite: 2] | Unused[cite: 2] |
+| | | 17 | EN | *Not Connected (NC)*[cite: 2] | Unused[cite: 2] |
+| | | 18 | GND | **GND**[cite: 2] | Ground[cite: 2] |
+| | | 19 | D2/MTMS | *Not Connected (NC)*[cite: 2] | Unused[cite: 2] |
+| | | 20 | D4/MTCK | *Not Connected (NC)*[cite: 2] | Unused[cite: 2] |
+| | | 21 | VBAT | *Not Connected (NC)*[cite: 2] | Unused[cite: 2] |
+| | | 22 | GND | *Not Connected (NC)*[cite: 2] | Unused[cite: 2] |
+| **U2**[cite: 2] | DHT11 Sensor[cite: 2] | 1 | VDD | **+3.3V**[cite: 2] | Power supply[cite: 2] |
+| | | 2 | DATA | **DHT11 DATA**[cite: 2] | Data output to U1 Pin 2 & R1 Pin 2[cite: 2] |
+| | | 3 | NC | *Not Connected (NC)*[cite: 2] | Internal no connect[cite: 2] |
+| | | 4 | GND | **GND**[cite: 2] | Ground[cite: 2] |
+| **J1**[cite: 2] | OLED Display Conn (1x04)[cite: 2] | 1 | Pin_1 | **SDA**[cite: 2] | I2C Data[cite: 2] |
+| | | 2 | Pin_2 | **SCL**[cite: 2] | I2C Clock[cite: 2] |
+| | | 3 | Pin_3 | **+3.3V**[cite: 2] | Display VCC[cite: 2] |
+| | | 4 | Pin_4 | **GND**[cite: 2] | Display Ground[cite: 2] |
+| **J2**[cite: 2] | Header Connector (1x08)[cite: 2] | 1 | Pin_1 | **+3.3V**[cite: 2] | Power output[cite: 2] |
+| | | 2 | Pin_2 | **GND**[cite: 2] | Ground[cite: 2] |
+| | | 3 | Pin_3 | **SCL**[cite: 2] | I2C Clock output[cite: 2] |
+| | | 4 | Pin_4 | **SDA**[cite: 2] | I2C Data output[cite: 2] |
+| | | 5–8 | Pin_5 to Pin_8 | *Not Connected (NC)*[cite: 2] | Unused pins[cite: 2] |
+| **SW1**[cite: 2] | Push Button 1[cite: 2] | 1 | Pin 1 | **GPIO2**[cite: 2] | Connected to U1 Pin 3[cite: 2] |
+| | | 2 | Pin 2 | **GND**[cite: 2] | Ground[cite: 2] |
+| **SW2**[cite: 2] | Push Button 2[cite: 2] | 1 | Pin 1 | **GPIO3**[cite: 2] | Connected to U1 Pin 4[cite: 2] |
+| | | 2 | Pin 2 | **GND**[cite: 2] | Ground[cite: 2] |
+| **R1**[cite: 2] | 10k Resistor[cite: 2] | 1 | Pin 1 | **+3.3V**[cite: 2] | Pull-up power connection[cite: 2] |
+| | | 2 | Pin 2 | **DHT11 DATA**[cite: 2] | Pull-up resistor for DHT11 data line[cite: 2] |
+
+## Net Summary Table
+
+| Net Name | Description | Connected Pins |
+| :--- | :--- | :--- |
+| **+3.3V**[cite: 2] | Main 3.3V Power Rail | U1 pin 12, U2 pin 1, J1 pin 3, J2 pin 1, R1 pin 1[cite: 2] |
+| **+5V**[cite: 2] | USB 5V Power Rail | U1 pin 14[cite: 2] |
+| **GND**[cite: 2] | Common Ground | U1 pin 13, U1 pin 18, U2 pin 4, J1 pin 4, J2 pin 2, SW1 pin 2, SW2 pin 2[cite: 2] |
+| **SDA**[cite: 2] | I2C Serial Data | U1 pin 6 (D5), J1 pin 1, J2 pin 4[cite: 2] |
+| **SCL**[cite: 2] | I2C Serial Clock | U1 pin 5 (D4), J1 pin 2, J2 pin 3[cite: 2] |
+| **GPIO2**[cite: 2] | Button 1 Input Line | U1 pin 3 (D2), SW1 pin 1[cite: 2] |
+| **GPIO3**[cite: 2] | Button 2 Input Line | U1 pin 4 (D3), SW2 pin 1[cite: 2] |
+| **DHT11 DATA**[cite: 2] | Sensor Data Line with Pull-up | U1 pin 2 (D1), U2 pin 2, R1
