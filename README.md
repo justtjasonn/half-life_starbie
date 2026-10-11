@@ -21,11 +21,12 @@ These are my Kicad PCB schematic, PCB layout and 3d models of my PCB. Along with
 </details>
 <details>
   <summary>Click to see the tree sprite I made</summary>
-    Colored version (not used):
+    **Colored version (not used):**
   <br>
   <img width="361" height="465" alt="dev2 3" src="https://github.com/user-attachments/assets/2cb1b935-c53e-4bff-84b7-39e9c655e28c" />
   <br>
-  Monochrome version(used):
+  **Monochrome version(used):**
+  <br>
     <img width="360" height="465" alt="dev2 2" src="https://github.com/user-attachments/assets/5b88d918-9ce6-4130-a1d1-525e8b6dc268" />
 
 </details>
