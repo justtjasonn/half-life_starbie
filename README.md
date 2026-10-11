@@ -16,5 +16,8 @@ These are my Kicad PCB schematic, PCB layout and 3d models of my PCB. Along with
 </details>
 <details>
   <summary>CLick to see 3D renderings of my PCB</summary>
-  <iframe src="https://pcbviewer.app/embed/2p6f1f28" width="100%" height="500" frameborder="0" allowfullscreen></iframe>
+  [Click here to view the 3D rendering of the PCB](https://pcbviewer.app/s/2p6f1f28)
+  
+  <img width="3547" height="2009" alt="dev1 3" src="https://github.com/user-attachments/assets/7f513f57-79e7-4016-bc97-afb3a4ac154f" />
+  <img width="3547" height="2009" alt="dev1 4" src="https://github.com/user-attachments/assets/4e8da723-b914-4654-bd3e-995662e0961c" />
 </details>
