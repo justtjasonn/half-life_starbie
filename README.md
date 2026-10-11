@@ -52,7 +52,7 @@ These are my Kicad PCB schematic, PCB layout and 3d models of my PCB. Along with
 
 ---
 
-# Jouralling
+# Journalling
 
 [Click to view my journalling](JOURNAL.md)
 <details>
