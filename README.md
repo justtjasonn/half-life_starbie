@@ -16,8 +16,14 @@ These are my Kicad PCB schematic, PCB layout and 3d models of my PCB. Along with
 </details>
 <details>
   <summary>CLick to see 3D renderings of my PCB</summary>
-  [Click here to view the 3D rendering of the PCB](https://pcbviewer.app/s/2p6f1f28)
-  
   <img width="3547" height="2009" alt="dev1 3" src="https://github.com/user-attachments/assets/7f513f57-79e7-4016-bc97-afb3a4ac154f" />
   <img width="3547" height="2009" alt="dev1 4" src="https://github.com/user-attachments/assets/4e8da723-b914-4654-bd3e-995662e0961c" />
+</details>
+<details>
+  <summary>Click to see the tree sprite I made</summary>
+  Colored version (not used):
+  <img width="361" height="465" alt="dev2 3" src="https://github.com/user-attachments/assets/2cb1b935-c53e-4bff-84b7-39e9c655e28c" />
+  Monochrome version (used):
+  <img width="600" height="685" alt="dev2 2" src="https://github.com/user-attachments/assets/e6e6100f-44ff-4e5c-9753-2bb6e6a4b8f6" />
+
 </details>
