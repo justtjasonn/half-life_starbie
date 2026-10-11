@@ -21,12 +21,29 @@ These are my Kicad PCB schematic, PCB layout and 3d models of my PCB. Along with
 </details>
 <details>
   <summary>Click to see the tree sprite I made</summary>
-    **Colored version (not used):**
+    Colored version (not used):
   <br>
   <img width="361" height="465" alt="dev2 3" src="https://github.com/user-attachments/assets/2cb1b935-c53e-4bff-84b7-39e9c655e28c" />
   <br>
-  **Monochrome version(used):**
+  Monochrome version(used):
   <br>
     <img width="360" height="465" alt="dev2 2" src="https://github.com/user-attachments/assets/5b88d918-9ce6-4130-a1d1-525e8b6dc268" />
 
 </details>
+
+---
+
+#BOM
+| Part | What it's for | Qty | Unit | Total | Vendor |
+| --- | --- | --- | --- | --- | --- |
+| [XIAO ESP32 C3](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) | For processing and running the firmware | 1 | $4.90 | $4.90 | [seed studio](https://www.seeedstudio.com/Seeed-XIAO-ESP32C3-p-5431.html) |
+| [0.96" SSD1306 OLED](https://e.tb.cn/h.jZynj421MeC2FqI?tk=I93tTr84Ais) | For displaying the sprite and its animations | 1 | $1.88 | $1.88 | [taobao/tmall (zave)](https://e.tb.cn/h.jZynj421MeC2FqI?tk=I93tTr84Ais) |
+| [MPU6050 Sensor](https://e.tb.cn/h.jZyX4GKkPIZ3ast?tk=ZfUtTrRsbtL) | For controlling the tamagotchi by tilting | 1 | $1.40 | $1.40 | [Taobao](https://e.tb.cn/h.jZyX4GKkPIZ3ast?tk=ZfUtTrRsbtL) |
+| [DHT11 humidity sensor module](https://e.tb.cn/h.jbPq5VsVxEpS1Ze?tk=xvSfTr8m0LC) | For detecting humidity in the air and sending it to the esp32 | 1 | $0.35 | $0.35 | [Taobao / Tmall](https://e.tb.cn/h.jbPq5VsVxEpS1Ze?tk=xvSfTr8m0LC) |
+| [Green MX switches](https://e.tb.cn/h.jaogColeXqJfMwt?tk=q7kgTr8Syrr) | for the user to click and control the tamagotchi | 10 | $0.13 | $1.30 | [Taobao / Tmall](https://e.tb.cn/h.jaogColeXqJfMwt?tk=q7kgTr8Syrr) |
+| [Green Keycaps](https://e.tb.cn/h.8AnWv1I2SZyVgNS?tk=wXyITrRM7ev) | For attaching on the mx switches | 5 | $0.15 | $0.75 | [Taobao (JSJT)](https://e.tb.cn/h.8AnWv1I2SZyVgNS?tk=wXyITrRM7ev) |
+| [10KΩ resistors](https://e.tb.cn/h.jZyh801vTzVTZPe?tk=vzyZTrRAbD2) | To limit the power from the  esp32 to the OLED display | 10 | $0.04 | $0.40 | [Taobao / Tmall](https://e.tb.cn/h.jZyh801vTzVTZPe?tk=vzyZTrRAbD2) |
+| [Custom PCB](https://jlcpcb.com/) | To connect all the componenets together and for extra design purposes | 5 | $0.80 | $4.00 | [JLCPCB](https://jlcpcb.com/) |
+| **Parts subtotal** | — | — | — | **$14.98** | — |
+| **Tax & shipping** | — | — | — | **$13.00** | — |
+| **Total** | — | — | — | **$27.98** | — |
