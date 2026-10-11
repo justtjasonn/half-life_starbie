@@ -24,7 +24,7 @@ These are my Kicad PCB schematic, PCB layout and 3d models of my PCB. Along with
     Colored version (not used):
     <img width="361" height="465" alt="dev2 3" src="https://github.com/user-attachments/assets/2cb1b935-c53e-4bff-84b7-39e9c655e28c" />
 
-    Monochrome version(used):
+  Monochrome version(used):
     <img width="600" height="685" alt="dev2 2" src="https://github.com/user-attachments/assets/5b88d918-9ce6-4130-a1d1-525e8b6dc268" />
 
 </details>
